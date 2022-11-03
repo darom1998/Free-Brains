@@ -1,12 +1,6 @@
-# Sample Hardhat Project
+Free brains app is a Dapp where users can publish their opinions freely without restrictions , it's built to provide a new era to share our brains ideas.
+this Free app is work with GOERLI TESTNET,all what you need is META MASK WALLET with GOERLI ETH . Once you connect your wallet you can easily share your  standing points .
 
-This project demonstrates a basic Hardhat use case. We built  a decentralized brains app where you can share your opinion without limits , Free Brains always said the truth that why we need a new space "Decentralized Brains app" in order to talk with freely.
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+1- Get a Goerli eth from https://goerlifaucet.com/
+2- Connect your wallet
+3- Sahre FREELY your OPINIONS
