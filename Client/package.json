@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@ethersproject/bignumber": "^5.7.0",
+    "big-integer": "^1.6.51",
+    "ethers": "^5.7.0",
+    "http-server": "^14.1.1",
+    "prettier": "^2.7.1"
+  }
+}
